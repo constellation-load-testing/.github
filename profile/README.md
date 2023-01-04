@@ -2,8 +2,7 @@
 
 ## About
 
-Constellation is an open-source, serverless, end-to-end framework that aims to simplify geographically distributed load testing. <br>
-Constellation automates load generation to allow developers to test how their system responds to requests from all over the globe.
+Constellation is an open-source, serverless, end-to-end framework that aims to simplify geographically distributed load testing. This framework automates load generation to allow developers to test how their system responds to requests from all over the globe.
 
 ## Get Started
 See the constellation-local [README.md](https://github.com/constellation-load-testing/constellation-local#readme) here.
